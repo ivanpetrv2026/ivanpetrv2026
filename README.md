@@ -1,4 +1,4 @@
-<h1 align="center">Имя Фамилия</h1>
+<h1 align="center">Дмитрий Анисимов</h1>
 
 <p align="center">
   <b>Разработчик и веб-кодер</b><br/>
@@ -55,9 +55,8 @@
 
 ### Связаться
 
-- **Telegram:** [@ваш_telegram](https://t.me/ваш_telegram) — самый быстрый способ
-- **Email:** you@example.com
-- **Сайт:** https://ваш-сайт.ru
+- **Telegram:** [@dmitriy198308](https://t.me/dmitriy198308) — самый быстрый способ
+- **Email:** [vsavsa67@gmail.com](mailto:vsavsa67@gmail.com)
 - **Формат работы:** проектная работа, почасовая, долгосрочные задачи
 
 ---
